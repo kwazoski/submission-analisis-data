@@ -1,4 +1,4 @@
-# Proyek Analisis Data: E-Commerce Public Dataset ✨
+# Proyek Analisis Data: E-Commerce Public Dataset 
 
 Analisis pesanan e-commerce (Olist, Brasil) periode Januari 2017 - Agustus 2018 untuk menjawab:
 1. Kategori produk apa yang masuk 10 besar revenue dan berapa kontribusinya?
